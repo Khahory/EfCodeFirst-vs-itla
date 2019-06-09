@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfCodeFirst", "EfCodeFirst\EfCodeFirst.csproj", "{F49C1DB1-2F5A-4DFB-BE70-09DFF40D1439}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjCodeFirstUsers", "EjCodeFirstUsers\EjCodeFirstUsers.csproj", "{43F40683-96ED-40F5-BB86-BB621D3D5397}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F49C1DB1-2F5A-4DFB-BE70-09DFF40D1439}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F49C1DB1-2F5A-4DFB-BE70-09DFF40D1439}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F49C1DB1-2F5A-4DFB-BE70-09DFF40D1439}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F49C1DB1-2F5A-4DFB-BE70-09DFF40D1439}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43F40683-96ED-40F5-BB86-BB621D3D5397}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43F40683-96ED-40F5-BB86-BB621D3D5397}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43F40683-96ED-40F5-BB86-BB621D3D5397}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43F40683-96ED-40F5-BB86-BB621D3D5397}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31F3E3DE-B30C-4F24-A618-43D7DD42508B}
+	EndGlobalSection
+EndGlobal
